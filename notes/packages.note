@@ -1,0 +1,26 @@
+PlainNotes -
+ https://packagecontrol.io/packages/PlainNotes 
+Markup  Markdown Syntax
+Italic  _italic_ or *italic*
+Bold    **bold** or **bold**
+Images  ![Image Title](http://url_to.image)
+Links   [Link Text](http://link.url)
+Inline Code `code`
+Quotes  > Here is a quote block
+Separators  ---- or *****
+Heading 1   # Heading 1
+Heading 2   ## Heading 2
+Heading 3   ### Heading 3
+Heading 4   #### Heading 4
+
+Markdown HTML Preview for Sublime Text 2/3
+https://packagecontrol.io/packages/Markdown%20HTML%20Preview 
+CTRL-SHIFT-M to preview markup file
+
+Terminal
+https://packagecontrol.io/packages/Terminal 
+
+Anaconda
+https://packagecontrol.io/packages/Anaconda 
+Turned off obnoxious linting coloring
+http://damnwidget.github.io/anaconda/anaconda_settings/ 
